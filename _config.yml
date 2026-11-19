@@ -1,0 +1,7 @@
+title: Smarfle
+description: Free templates, lead API examples and resources for home and field service businesses, from Smarfle.
+theme: jekyll-theme-cayman
+url: https://smarfle.github.io
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
