@@ -14,9 +14,16 @@ These are the free resources Smarfle publishes here. Everything is free to use, 
 
 [37 free Google Sheets and Google Docs templates](https://smarfle.github.io/field-service-templates/) for running a service business: a CRM, job and lead trackers, dispatch and staff schedules, work orders, estimates, invoices and receipts, inventory, payroll and mileage logs, contracts, budgets and a profit and loss statement. Open one, make a copy, and it is yours.
 
-## Lead API examples
+## API examples
 
-[Copy-and-run examples](https://smarfle.github.io/smarfle-lead-api/) for sending leads from a website, ads or a form builder into Smarfle, in curl, Node, Python and PHP, plus Zapier and form builder setups. The full reference is at [smarfle.com/docs/api](https://www.smarfle.com/docs/api).
+[Copy-and-run examples](https://smarfle.github.io/smarfle-lead-api/) for sending leads from a website, ads or a form builder into Smarfle, and for reading and writing customers, jobs and invoices with the [REST API](https://smarfle.github.io/smarfle-lead-api/rest-api/), in curl, Node, Python and PHP, plus Zapier and form builder setups. The full reference is at [smarfle.com/docs/api](https://www.smarfle.com/docs/api).
+
+## Integrations and connectors
+
+- [Power Platform connector](https://github.com/smarfle/smarfle-power-platform-connector): use Smarfle in Power Automate, Power Apps, Logic Apps and Copilot Studio, with a trigger that fires when customers, jobs and invoices are added or change.
+- [ActiveCampaign sync](https://www.smarfle.com/docs/activecampaign): send customers and their status tags from Smarfle to an ActiveCampaign list.
+- [Smarfle in the Stripe Dashboard](https://www.smarfle.com/docs/stripe-app): see the Smarfle job, invoice and customer behind each Stripe payment.
+- [All integrations](https://www.smarfle.com/features/integrations), including QuickBooks Online and Google Business Profile.
 
 ## Awesome field service
 
